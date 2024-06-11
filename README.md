@@ -1,5 +1,3 @@
-<div align="center">
- 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=정민욱&fontSize=80)
 
 ### Hi Welcome, I'm MINUK JEONG 👋
