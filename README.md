@@ -18,6 +18,17 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minukj1224@gmail.com)](mailto:minukj1224@gmail.com)
 
+### 📚 Education
+- 2015 Graduated from Daegu High School
+- 2015 Entered Daegu University, Department of AI Software
+- 2023 Graduated from Daegu University, Department of AI Software
+- Since August 2022, AI Core Development
+
+### 📄 Publications
+- Study on Recommendation Technique for Foundation Color Based on User Skin Color Using Tumbler - Multimedia Society (KCI Indexed)
+- Design of Medical Image Information Classifier to Improve the Accuracy of Lung Cancer Diagnosis - ISIITA (International Conference)
+- Etc. Author of 4 papers
+
 🏆 Awards
 | Year | Competition | Prize |
 |------|-------------|-------|
@@ -29,17 +40,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 | 2021 | International Capstone Design Program | Best Technical Award |
 | 2021 | Global CDP Online Program | Best Technical Award |
 | 2022 | International Capstone Design Program Global CDP | Gold Prize |
-
-### 📚 Education
-- 2015 Graduated from Daegu High School
-- 2015 Entered Daegu University, Department of AI Software
-- 2023 Graduated from Daegu University, Department of AI Software
-- Since August 2022, AI Core Development
-
-### 📄 Publications
-- Study on Recommendation Technique for Foundation Color Based on User Skin Color Using Tumbler - Multimedia Society (KCI Indexed)
-- Design of Medical Image Information Classifier to Improve the Accuracy of Lung Cancer Diagnosis - ISIITA (International Conference)
-- Etc. Author of 4 papers
 
 ### 💼 Projects
 
