@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=정민욱&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=Minuk%20Jeong&fontSize=80)
 
-### Hi Welcome, I'm MINUK JEONG 👋
+### Hi Welcome, I'm Minuk Jeong 👋
 
 #### AI Developer / Video Processing Enthusiast
-Developers who create beneficial social values   
+Developer who creates beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
 
 🛠️ Stacks
@@ -16,35 +16,35 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:minukj1224@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minukj1224@gmail.com)](mailto:minukj1224@gmail.com)
 
 🏆 Awards
-| Competition | Prize | Date |
-|-------------|-------|------|
-| Competition Name | Prize | Date |
-| Competition Name | Prize | Date |
+| Year | Competition | Prize |
+|------|-------------|-------|
+| 2021 | The Gyeongbuk Hackathon: New Gyeongbuk Hackathon: Science Playground | Grand Prize |
+| 2021 | Gyeongsangbuk-do Public Data AI Competition | Encouragement Award |
+| 2021 | Mobile App/Idea Competition | Excellence Award |
+| 2021 | ICT Convergence Student Project Competition | Excellence Award |
+| 2021 | TECH-DREAM Real-World Problem Research Team | Encouragement Award |
+| 2021 | International Capstone Design Program | Best Technical Award |
+| 2021 | Global CDP Online Program | Best Technical Award |
+| 2022 | International Capstone Design Program Global CDP | Gold Prize |
 
-<!-- Add your education details here -->
 ### 📚 Education
-- Degree in Major from University, Year
+- 2015 Graduated from Daegu High School
+- 2015 Entered Daegu University, Department of AI Software
+- 2023 Graduated from Daegu University, Department of AI Software
+- Since August 2022, AI Core Development
 
-<!-- Add your published papers here -->
 ### 📄 Publications
-- Paper Title, Conference/Journal Name, Year [Link if available]
-
-<!-- Add your notable projects here -->
-### 💼 Projects
-- Project Title, Description, Year [Link if available]
-
-<!-- This section can be expanded with more specific details about your work and achievements -->
+- Study on Recommendation Technique for Foundation Color Based on User Skin Color Using Tumbler - Multimedia Society (KCI Indexed)
+- Design of Medical Image Information Classifier to Improve the Accuracy of Lung Cancer Diagnosis - ISIITA (International Conference)
+- Etc. Author of 4 papers
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
 
-
-공부 방향성을 잡아가고 있는 개발자입니다.<br>
-현재는 AI 개발 및 영상 처리 역량 강화에 집중하고 있습니다!<br>
-언젠가는 누구보다 멋진 개발자가 될 거라 믿어 의심치 않습니다!<br>
+I am an AI developer with 2 years of experience at a mid-sized enterprise. Currently, I am focusing on enhancing my AI development and video processing skills. I firmly believe that one day, I will become a developer who stands out above the rest.
 
 E-mail: minukj1224@gmail.com<br>
 
