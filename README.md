@@ -1,3 +1,7 @@
+<div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=정민욱&fontSize=80)
+
 ### Hi Welcome, I'm MINUK JEONG 👋
 
 #### AI Developer / Video Processing Enthusiast
@@ -40,13 +44,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
 
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=정민욱&fontSize=80)
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 공부 방향성을 잡아가고 있는 개발자입니다.<br>
 현재는 AI 개발 및 영상 처리 역량 강화에 집중하고 있습니다!<br>
