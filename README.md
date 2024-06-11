@@ -41,11 +41,24 @@ A developer who thinks, researches, creates, and connects to practical realizati
 - Design of Medical Image Information Classifier to Improve the Accuracy of Lung Cancer Diagnosis - ISIITA (International Conference)
 - Etc. Author of 4 papers
 
+### 💼 Projects
+
+#### 1. Vehicle Detection and Traffic Volume Prediction at Intersections
+- **Description:** Developed a project in collaboration with a mid-sized company to recognize vehicles at intersections and predict traffic volume using YOLOv3.
+- **Tools:** Python, PyTorch, TensorFlow, OpenCV, Scikit-learn, YOLOv3
+- **Impact:** Became a core technology utilized by the partnering mid-sized company.
+
+#### 2. Cosmetics Recommendation System
+- **Description:** Created a system in collaboration with a major company that recommends cosmetics by analyzing facial features obtained from a camera.
+- **Tools:** Python, PyTorch, OpenCV, Scikit-learn
+
+#### 3. Face Anti-Spoofing Technology
+- **Description:** Leading a project in my current company to develop technology for recognizing spoofed faces, including paper, paper crop, paper mask, display, and 3D mask.
+- **Tools:** Python, PyTorch, OpenCV
+
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
 
 I am an AI developer with 2 years of experience at a mid-sized enterprise. Currently, I am focusing on enhancing my AI development and video processing skills. I firmly believe that one day, I will become a developer who stands out above the rest.
 
-E-mail: minukj1224@gmail.com<br>
-
-<br>
+E-mail: minukj1224@gmail.com
