@@ -17,7 +17,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:minukj1224@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://your-notion-link)](https://your-notion-link)
 
 🏆 Awards
 | Competition | Prize | Date |
@@ -47,32 +46,6 @@ Please understand.
 현재는 AI 개발 및 영상 처리 역량 강화에 집중하고 있습니다!<br>
 언젠가는 누구보다 멋진 개발자가 될 거라 믿어 의심치 않습니다!<br>
 
-E-mail: your-email@gmail.com<br>
-Blog: https://your-blog-link.com/
+E-mail: minukj1224@gmail.com<br>
 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-github-username&count_bg=%2336AFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
-<hr>
-<br>
-
-# 📚 수상 및 활동내역
-
-| 기간 | 구분 | 활동내역 | 비고 |
-|------|------|----------|------|
-| Date | Type | Description | [Link if available] |
-| Date | Type | Description | [Link if available] |
-
-<br><br>
-
-# 🙍‍♀️ 소통창구
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://your-tech-blog)](https://your-tech-blog)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fyour-twitter-handle)](https://twitter.com/your-twitter-handle)
-
-<br><br>
-
-</div>
