@@ -17,12 +17,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:minukj1224@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://your-notion-link)](https://your-notion-link)
 
-🏅 Algorithm Gold Level. 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your-boj-username)](https://solved.ac/your-boj-username)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
-
 🏆 Awards
 | Competition | Prize | Date |
 |-------------|-------|------|
