@@ -18,17 +18,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minukj1224@gmail.com)](mailto:minukj1224@gmail.com)
 
-### 📚 Education
-- 2015 Graduated from Daegu High School
-- 2015 Entered Daegu University, Department of AI Software
-- 2023 Graduated from Daegu University, Department of AI Software
-- Since August 2022, AI Core Development
-
-### 📄 Publications
-- Study on Recommendation Technique for Foundation Color Based on User Skin Color Using Tumbler - Multimedia Society (KCI Indexed)
-- Design of Medical Image Information Classifier to Improve the Accuracy of Lung Cancer Diagnosis - ISIITA (International Conference)
-- Etc. Author of 4 papers
-
 🏆 Awards
 | Year | Competition | Prize |
 |------|-------------|-------|
@@ -41,20 +30,29 @@ A developer who thinks, researches, creates, and connects to practical realizati
 | 2021 | Global CDP Online Program | Best Technical Award |
 | 2022 | International Capstone Design Program Global CDP | Gold Prize |
 
+### 📚 Education
+- 2015 Graduated from Daegu High School
+- 2015 Entered Daegu University, Department of AI Software
+- 2023 Graduated from Daegu University, Department of AI Software
+- Since August 2022, AI Core Development
+
+### 📄 Publications
+- Study on Recommendation Technique for Foundation Color Based on User Skin Color Using Tumbler - Multimedia Society (KCI Indexed)
+- Design of Medical Image Information Classifier to Improve the Accuracy of Lung Cancer Diagnosis - ISIITA (International Conference)
+- Etc. Author of 4 papers
+
 ### 💼 Projects
 
 #### 1. Vehicle Detection and Traffic Volume Prediction at Intersections
 - **Description:** Developed a project in collaboration with a mid-sized company to recognize vehicles at intersections and predict traffic volume using YOLOv3.
-- **Tools:** Python, PyTorch, TensorFlow, OpenCV, Scikit-learn, YOLOv3
 - **Impact:** Became a core technology utilized by the partnering mid-sized company.
 
 #### 2. Cosmetics Recommendation System
 - **Description:** Created a system in collaboration with a major company that recommends cosmetics by analyzing facial features obtained from a camera.
-- **Tools:** Python, PyTorch, OpenCV, Scikit-learn
+- **Impact:** Published a paper in the Korean Multimedia Society, which was indexed in the KCI journal.
 
 #### 3. Face Anti-Spoofing Technology
 - **Description:** Leading a project in my current company to develop technology for recognizing spoofed faces, including paper, paper crop, paper mask, display, and 3D mask.
-- **Tools:** Python, PyTorch, OpenCV
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
