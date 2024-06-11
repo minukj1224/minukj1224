@@ -37,7 +37,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 - Since August 2022, AI Core Development
 
 ### 📄 Publications
-- Study on Recommendation Technique for Foundation Color Based on User Skin Color Using Tumbler - Multimedia Society (KCI Indexed)
+- Study on Recommendation Technique for Foundation Color Based on User Skin Color Using Tumbler - Multimedia Society (KCI Journal)
 - Design of Medical Image Information Classifier to Improve the Accuracy of Lung Cancer Diagnosis - ISIITA (International Conference)
 - Etc. Author of 4 papers
 
