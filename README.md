@@ -44,19 +44,22 @@ A developer who thinks, researches, creates, and connects to practical realizati
 ### 💼 Projects
 
 #### 1. Vehicle Detection and Traffic Volume Prediction at Intersections
-- **Description:** Developed a project in collaboration with a mid-sized company to recognize vehicles at intersections and predict traffic volume using YOLOv3.
+- **Description:** Developed a project in collaboration with a company to recognize vehicles at intersections and predict traffic volume using YOLOv3.
 - **Impact:** Became a core technology utilized by the partnering mid-sized company.
 
 #### 2. Cosmetics Recommendation System
-- **Description:** Created a system in collaboration with a major company that recommends cosmetics by analyzing facial features obtained from a camera.
+- **Description:** Created a system in collaboration with a company that recommends cosmetics by analyzing facial features obtained from a camera.
 - **Impact:** Published a paper in the Korean Multimedia Society, which was indexed in the KCI journal.
 
 #### 3. Face Anti-Spoofing Technology
 - **Description:** Leading a project in my current company to develop technology for recognizing spoofed faces, including paper, paper crop, paper mask, display, and 3D mask.
 
+#### 4. Semiconductor Component Incoming Defect Inspection Technology
+- **Description:** The company currently utilizes incoming defect inspection in real-world situations
+
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
 
-I am an AI developer with 2 years of experience at a mid-sized enterprise. Currently, I am focusing on enhancing my AI development and video processing skills. I firmly believe that one day, I will become a developer who stands out above the rest.
+I am an AI developer with 3 years of experience at a mid-sized enterprise. Currently, I am focusing on enhancing my AI development and video processing skills. I firmly believe that one day, I will become a developer who stands out above the rest.
 
 E-mail: minukj1224@gmail.com
