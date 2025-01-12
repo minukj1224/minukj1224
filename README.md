@@ -18,6 +18,10 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minukj1224@gmail.com)](mailto:minukj1224@gmail.com)
 
+![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username={minukj1224}&layout=compact)
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username={minukj1224}&show_icons=true&theme=radical)
+
 🏆 Awards
 | Year | Competition | Prize |
 |------|-------------|-------|
