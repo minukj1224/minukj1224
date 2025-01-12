@@ -18,7 +18,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minukj1224&count_private=true)](https://github.com/minukj1224/github-readme-stats)
 
-[![Minuk GitHub stats](https://github-readme-stats.vercel.app/api?username=minukj1224&count_private=true)](https://github.com/minukj1224/github-readme-stats)
+![Minuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minukj1224&count_private=true)
 
 🏆 Awards
 | Year | Competition | Prize |
