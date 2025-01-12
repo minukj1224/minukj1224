@@ -22,6 +22,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username={minukj1224}&show_icons=true&theme=radical)
 
+[![Minuk GitHub stats](https://github-readme-stats.vercel.app/api?username=minukj1224)](https://github.com/anuraghazra/github-readme-stats)
+
 🏆 Awards
 | Year | Competition | Prize |
 |------|-------------|-------|
